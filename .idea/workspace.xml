@@ -1,48 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="使用git的测试">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/ab3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/ab4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/banner33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/bs1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/do.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/pic-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/remen_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/s1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/s2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/s3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/img/s4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/cart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/javascript/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/js练习.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/my file.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/products.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/products.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/registration.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/registration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/single.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/javascript/single.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/css/special-sale.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/html_css/special-sale.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="使用git的测试二">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/轮播图/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/轮播图/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/轮播图/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/轮播图/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/得到失去焦点/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/1_BOM.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/2_DOM1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/3_右键菜单.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/jqapi-1.9.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/jquery-1.12.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/全选.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/回到顶部.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/拖拽.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/拖拽复习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/笔记" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/轮播图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/轮播图/轮播图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/轮播图复习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/选项卡.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_js/DOM/选项卡复习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/问题" />
+      <change type="DELETED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\README.md" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\cart.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/cart.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\cart.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/cart.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\common.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/common.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\index.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/index.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\login.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/login.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\products.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/products.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\registration.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/registration.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\single.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/single.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\css\special-sale.css" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/css/special-sale.css" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\ab3.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/ab3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\ab4.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/ab4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\banner.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/banner.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\banner2.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/banner2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\banner33.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/banner33.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\bg1.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/bg1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\bg2.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/bg2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\bg3.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/bg3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\bs1.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/bs1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\cart.png" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/cart.png" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\close.png" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/close.png" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\do.png" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/do.png" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\pic-1.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/pic-1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\remen_18.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/remen_18.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\s1.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/s1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\s2.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/s2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\s3.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/s3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\img\s4.jpg" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/img/s4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\index.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/index.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\js练习.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/js练习.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\login.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/login.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\products.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/products.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\registration.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/registration.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\single.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/single.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\html_css\special-sale.html" afterPath="$PROJECT_DIR$/html_css_js/shop/html_css/special-sale.html" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\javascript\index.js" afterPath="$PROJECT_DIR$/html_css_js/shop/javascript/index.js" />
+      <change type="MOVED" beforePath="C:\Users\lenovo\WebstormProjects\my file\my file\shop\javascript\single.js" afterPath="$PROJECT_DIR$/html_css_js/shop/javascript/single.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my file.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,12 +87,39 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="cart.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop/html_css/css/cart.css">
+        <entry file="file://$PROJECT_DIR$/html_css_js/shop/html_css/css/cart.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="笔记" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/笔记">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="问题" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/问题">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_css_js/DOM/img/1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -143,47 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,6 +209,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\WebstormProjects\my file\my file" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\WebstormProjects\my file\my file\html_css_js" />
     </key>
   </component>
   <component name="RunManager">
@@ -246,17 +259,34 @@
       <option name="number" value="Default" />
       <updated>1502263964140</updated>
     </task>
+    <task id="LOCAL-00001" summary="使用git的测试">
+      <created>1502266079842</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502266079842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -265,7 +295,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -277,14 +306,36 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="使用git的测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用git的测试" />
+    <MESSAGE value="使用git的测试二" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用git的测试二" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop/html_css/css/cart.css">
+    <entry file="file://$PROJECT_DIR$/笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/问题">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css_js/DOM/img/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css_js/shop/html_css/css/cart.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

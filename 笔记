@@ -1,0 +1,228 @@
+4.19  html_css
+资源库github
+行级元素inline:a\image\span:行级元素和行级元素在一行，行级元素不能设置宽高，靠内容撑开
+块级元素block:div\ul\ol\p\h1~h6:块级元素自己占一行
+
+4.23
+图标网站iconfont,font awesome,easyicon
+
+4.26
+margin: 1.2.3.4意思
+form表单
+文本缩进text-indent
+hover
+wrapper,div,宽度设置  脱离文档流问题:写死高度，浮动，绝对定位
+溢出隐藏overflow:hidden
+给span加边距,行级元素只能加左右边距，块级元素四个方向都可以
+上下边框border-top
+line-height=height:垂直居中
+边框圆角border-radius
+图片覆盖z-index只对定位的元素有作用
+定位:absolute（子元素）,relative（副元素，不改变其初始位置，只是把他当作参照物）,fix(相对于浏览器)
+    给元素设置上下左右的位置时，是相对于他的就近元素
+id和class的区别    “selected”
+下划线text-decoration
+
+5.6
+在选项卡里显示图片ico
+p自带上下边距
+target="_blank"   alt="图片加载失败"
+表格table   表单form lable input  性别radio,name="sex"
+学校
+<select name="" id="">
+    <option value="">黑大</option>
+    <option value="">农大</option>
+    <option value="">理工</option>
+</select>
+数量 <input type="number"/>
+邮箱 <input type="email"/>
+日期 <input type="date"/>
+范围 <input type="range"/>
+<input type="submit"/>
+<input type="reset"/>
+选择器（属性/后代/兄弟...)
+<p>英文和中文的区别</p>
+margin:上 右 下 顺时针
+两列布局，左固定，右自适应
+三列布局，左右固定，中间自适应
+三行布局，头尾固定，中间自适应
+定位
+css sprite(css精灵图)
+
+5.7  javascript
+变量：
+var a=5;
+document.write(a);
+console.log(a);    console.log(typeof a);  NaN:not a number (false)且NaN与自身不相等
+js的五种基本数据类型：number. string. boolean(T/F). undefined(false). null（false）
+变量命名：只能为字母、数字、下划线、$
+var myName="lisi";//驼峰式
+动态类型:var g=1;console.log(typeof g);
+        var g="abc";console.log(typeof g);
+        alert(g);
+字符串拼接:+拼接  -计算
+=赋值  ==判断值是否相等  ===判断值和类型是否相等
+&&逻辑与  ||逻辑或  ！逻辑非
+console.log(5/0);  显示Infinity
+var l=false;//true:1  false:0
+console.log(typeof(l+""));//将类型转化为字符串
+空字符串false  非空字符串true  0:false
+命名规范
+var iNum=5;//int
+var fNum=0.5;//float
+var sName="张三";//string
+var bFlag=true;//boolean
+var result=prompt("请输入","默认值");
+console.log(result);
+选择结构：  if：只判断值  switch：判断值和类型(eg:string & number)
+循环：  for / while / do...while (break/continue) / for..in
+for(i=0,j=0; i<5,j<6; i++,j++)当括号中第二个判断条件有多个时，以最后一个为准
+数组和对象
+
+5.13
+引入js文件  <script arc="common.js"></script>
+js基本数据类型：五种（存入栈stack里）
+js引用类型：内置对象、自定义对象、dom对象（存入堆heap里）
+手册里的math函数
+&&  参数  函数的立即调用
+console.log(a.tostring(16));//把十进制转化为十六进制
+parseInt(4.5)把小数转化为整数
+
+5.20
+求阶乘：递归，非递归
+函数练习题
+数组函数
+标识位
+对象的相关知识
+
+5.21
+BOM
+DOM
+
+6.10
+1. BOM基础,DOM基础  （课件）
+2. 为什么js写在body结束的位置  eg: window.onload写在body内和body外的区别  （图片）
+  写在body结束的位置，dom元素加载完成，但资源文件没有加载完成
+  写在window.onload里，两个都加载完成
+  window.onload = function(){
+
+      };
+3. typeof(null) = object;    typeof(undefined) = undefined;
+4. 右键菜单复习
+        css重置的写法
+        透明度设置
+        让某个div在网页不显示 ：1.display:none  2.透明度为0  3.visibility:hidden  (三者区别)
+        给谁绑定事件，绑定什么事件
+        阻止浏览器默认行为 ：return false
+        获取事件源的方法 ：e.target（标准浏览器） / window.event.srcElement(早期IE)
+        e = e || window.event;
+5. 选项卡复习
+6. this的三种指向情况 ：1.window下的对象  2.事件  3.方法
+7. 内联样式和外部样式
+8. 轮播图复习
+        绝对定位：相对于离他最近的已经定位的祖先元素，脱离文档流
+        相对定位：不会改变原有位置，不脱离文档流
+9. 定时器  setInterval / setTimeout
+    eg. setTimeout(function(){
+                console.log(1)
+            },0);
+            console.log(2);
+            console.log(3);
+
+6/11
+1. 折叠菜单
+    鼠标点击实现展开、合并的切换
+        a.标识位，标识是否展开 true/false. 给每个对象定义自己的标识位，标识自己是展开还是合并
+        b.对象.style.属性
+        c.孩子结点 firstchild、兄弟结点 nextsibling 有兼容性问题
+          需要封装函数 :
+               function next(elem){
+                    do{
+                        elem = elem.nextSibling;
+                    }
+                    while(elem.nodeType != 1)
+                    return elem;
+                };
+2. 我的小店 js
+
+6/18
+single.html.js的完成 （轮播图及其动画效果<定时器>，放大镜）
+1.<:  &lt;    >:  &gt;
+2、函数的立即调用
+3、offsetWidth / offsetHeight (内容 + padding + border)  offset均只能取值，不能赋值
+    对象.style.属性 可以获取内联样式的值，也可赋值
+    offsetLeft / offsetTop :相对于离他最近已经定位的祖先元素的位置，没定位，就是相对于body
+    offsetParent :相对于他祖先元素的位置
+4、相对定位和绝对定位应用
+5、函数库
+6、放大镜（拖拽）
+    为什么在IE下会卡（事件冒泡——事件是可以传播的），解决办法
+
+8.6
+ 1. <meta name="keywords" content="  "/>
+    <meta name="discription" content="  "/>
+ 2.  <a href="http://www.baidu.com" target="_blank"></a>
+3.css选择器
+ id选择器   #id
+ 类选择器   .class
+ 标签/元素选择器  div{}  h1{}
+ 后代选择器   #div1 h1{}
+ 子代选择器   #div1 > h1{}
+ 分组选择器   h1, p{}
+ 伪类选择器   #div1:hover{}
+
+ 8.7
+ 1.样式重置：
+ #img{
+         border: 0px;
+     }当img外包了一个a时
+     a{
+         text-decoration: none;
+     }
+2.如果css没起作用，考虑权重值是否太小
+3.让一个东西不显示：display:none(不占空间，事件不可触发)    透明度为0（占空间，事件可触发）     visibility:hidden(占空间，事件不可触发)
+4.如果行级元素脱离文档流（浮动/绝对定位），就可以设置宽高
+5.this（指代当前绑定事件的对象）的几种情况
+6.aLi[i].xx = i;   给每个li对象自定义属性，保存住当时i的值
+7.事件冒泡（从事件源开始321），事件捕获（从外到里123）--1最大      先捕获后冒泡
+8.几种绑定事件的方法
+9.解决兼容性问题：封装函数（例子）
+10.对象定义的几种方法
+11.对象.属性（常量）  /  对象[属性]（当属性为变量）
+12.oUl1.onclick() = function(e){
+           console.log(e.target.innerHTML);
+       };//事件委托/事件代理
+
+
+8.8
+1.jquery优点：提供很多选择器，动画,dom函数库，兼容性问题
+        早期版本（1.1.1）可以兼容早期IE         版本是否压缩
+2.文档就绪函数      与**函数的区别
+3.选择兄弟：+ & ~
+4.原生对象转化为jquery对象：$(oDiv)
+  jq对象-->原生对象：$("#div1").[0]   $("#div1").get(0)
+5.补充：css属性选择器（手册）
+6.attr("");   一个参数：设置值  两个参数：取值
+  attr 属性能看到   prop：属性看不到（随便定义无实际含义）
+7.命名：var $div1 = $("#div1");
+8.  .val： 没有参数：取值     有参数：设置值
+9.form表单里的button如果不设置type，默认提交
+10.$(function(){
+           $("#check-all").on("click",function(){
+
+           });
+       });//jq的方式给对象绑定事件
+11.width(content)  innerwidth(content+padding)   outerwidth(content+padding+border+margin<true>)
+12.offset:相对于浏览器的距离  position：相对于离他最近已经定位的祖先元素的距离 offsetParent
+13.父元素append子元素，子元素appendto父元素（内容后面追加）
+        prepend            prependto      (    前面   )
+14.html和text区别
+
+8.9
+1.find（子孙后代）  children（子代）
+2.  .closest & .parents
+3.mouseenter 没有事件冒泡，mouseover有（二者都是鼠标滑入）
+4.focus / blur
+5.e.target事件源  e.currentTarget == this
+6.extend:后面的往前面合并
+8.load：代码段的合并
