@@ -1,0 +1,145 @@
+#single{
+    margin-top: 50px;
+    height: 650px;
+}
+#single-pic{
+    width: 494px;
+    height: 567px;
+    overflow: hidden;
+    position: relative;
+}
+#single-pic .big-pic{
+    padding: 6px;
+    border: 1px solid #cccccc;
+}
+#single-pic .big-pic img{
+    width: 480px;
+    height: 400px;
+}
+#single-pic .small-pic{
+    width: 800px;
+    height: 133px;
+    margin-top: 10px;
+    position: relative;
+}
+#single-pic .small-pic img{
+    width: 150px;
+    height: 125px;
+    padding: 3px;
+    border: 1px solid #cccccc;
+    float: left;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.small-pic .selected{
+    border: 1px solid black;
+}
+
+#single .arrow{
+    width: 30px;
+    height: 30px;
+    background: #000;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    top: 200px;
+    line-height: 30;
+    text-align: center;
+}
+#left{
+    left: 10px;
+}
+#right{
+    right: 10px;
+}
+
+
+#single-description{
+
+    width: 570px;
+    height: 612px;
+    margin-left: 30px;
+}
+#single-description .lip{
+    color: #999;
+    font-size: 12px;
+    line-height: 20px;
+}
+#single-description .price{
+    color: #fa558f;
+    font-size: 30px;
+    margin: 30px 0;
+}
+#single-description input{
+    width: 50px;
+    height: 39px;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 1px solid #999999;
+    text-indent: 10px;
+}
+#single-description button{
+    width: 156px;
+    height: 40px;
+    background: #3c3b3b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+#single-description button:hover{
+    background: white;
+    color: black;
+    border: 2px solid #000000;
+    cursor: pointer;
+}
+#single-description .brand{
+    border-bottom: 1px solid darkorange;
+    border-top: 1px solid darkorange;
+    width: 570px;
+    height: 108px;
+    line-height: 50px;
+}
+#single-description .brand a{
+    color: darkorange;
+}
+#single-description h4{
+    margin: 30px 0;
+}
+
+#dependence{
+    height: 424px;
+}
+#dependence h3{
+    background: #efefef;
+}
+#dependence .product-info{
+    width: 285px;
+    height: 344px;
+    float: left;
+    text-align: center;
+}
+.product-info img{
+    width: 255px;
+    height: 255px;
+}
+.product-info h4{
+    margin-bottom: 20px;
+
+}
+.product-info button{
+    width: 110px;
+    height: 34px;
+    background: #3c3b3b;
+    color: white;
+    border: none;
+
+    border-radius: 5px;
+}
+.product-info button:hover{
+    cursor: pointer;
+    border: 2px solid black;
+    background: white;
+    color: black;
+}

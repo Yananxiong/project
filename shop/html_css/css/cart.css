@@ -1,0 +1,110 @@
+#cart-container{
+    height: 600px;
+    background: #efefef;
+}
+#my-cart{
+    margin-top: 50px;
+    width: 855px;
+    height: 504px;
+
+}
+#my-cart .cart-detail{
+    margin-top: 30px;
+    width: 840px;
+    height: 204px;
+}
+#cart-price{
+    margin-top: 50px;
+    width: 280px;
+    height: 381px;
+}
+#my-cart .cosmetic{
+    width: 134px;
+    height: 134px;
+    float: left;
+}
+#my-cart .close{
+    float: right;
+    cursor: pointer;
+}
+#my-cart .cart-info{
+    float: left;
+    margin-left: 30px;
+
+}
+#my-cart .price{
+    padding-bottom: 40px;
+    padding-top: 50px;
+    border-bottom: 1px solid #000000;
+    width: 625px;
+
+}
+#my-cart .on-sale{
+    margin-right: 40px;
+    font-size: 20px;
+}
+#my-cart .time{
+    margin-top: 20px;
+}
+#my-cart .time span{
+    font-size: 14px;
+    color: #999;
+}
+#my-cart .arrive{
+   float: right;
+}
+#my-cart input{
+    text-indent: 10px;
+    border-radius: 5px;
+    width: 84px;
+    height: 36px;
+    border: 1px solid #000000;
+}
+
+#cart-price .btn{
+    width: 140px;
+    height: 40px;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+#cart-price .continue{
+    background: orange;
+}
+#cart-price .submit{
+    background: #000000;
+}
+#cart-price .continue:hover{
+    cursor: pointer;
+    background: #000000;
+}
+#cart-price .submit:hover{
+    cursor: pointer;
+    background: orange;
+}
+#cart-price{
+    width: 280px;
+    height: 381px;
+    border-left: 1px solid #000000;
+
+}
+#cart-price .description{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#cart-price .total{
+    margin-left: 70px;
+}
+#cart-price .total div{
+    border-top: 1px solid #000000;
+
+}
+#cart-price .gap{
+    margin-right: 70px;
+}
+#cart-price .total .sum{
+    font-weight: bolder;
+}
