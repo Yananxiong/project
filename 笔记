@@ -226,3 +226,4 @@ single.html.js的完成 （轮播图及其动画效果<定时器>，放大镜）
 5.e.target事件源  e.currentTarget == this
 6.extend:后面的往前面合并
 8.load：代码段的合并
+9.  .css的三种方式
