@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+#header{
+    width: 100%;
+    height: 30px;
+    margin: 10px;
+}
+#menu,#logo{
+    float: left;
+}
+#login{
+    float: right;
+}
+#logo{
+    text-align: center;
+}
