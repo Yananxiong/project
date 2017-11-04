@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #app{
+            width: 400px;
+            height: 500px;
+            margin: 10px auto;
+        }
+        #app h1{
+            text-align: center;
+        }
+        #list li{
+            list-style: none;
+            height: 60px;
+            background: #CCCCCC;
+            margin-bottom: 10px;
+            text-align: center;
+            line-height: 60px;
+            font-size: 30px;
+            padding: 0 10px;
+            cursor: pointer;
+        }
+        .productName{
+            float: left;
+        }
+        .productPrice{
+            float: right;
+        }
+        #list .red{
+            background: #f00;
+        }
+        #list .del{
+            float: left;
+            color: #FFFFFF;
+
+        }
+
+    </style>
+</head>
+<body>
+<div id="app">
+    <h1>todolist</h1>
+    <div>
+        <label>名称：
+            <input type="text" placeholder="请输入产品名称" v-model="name"/>
+        </label><br/>
+        <label>价格：
+            <input type="text" placeholder="请输入价格" v-model="price"/>
+        </label>
+        <button @click="add">增加</button>
+    </div>
+    <div>
+        <input type="text" placeholder="请输入关键字" v-model="keyword"/>
+        <button @click="search">搜索</button>
+    </div>
+    <ul id="list">
+        <li v-for="(product,index) in productList" @click="select(product)" :class="{red:product.isRed}">
+            <input type="checkbox" @click.stop="" v-model="checked" :value="index">
+            <span class="del" @click="del(index)">[X]</span>
+
+            <span class="productName">{{product.name}}</span>
+            <span class="productPrice">{{product.price}}</span>
+        </li>
+    </ul>
+    <div id="total">
+        <button @click="delAll">删除选中</button>
+        <div>总价：{{sum()}}</div>
+    </div>
+</div>
+<script src="vue.js"></script>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            productList:[
+                {
+                    name:'衣服',
+                    price:123,
+                    isRed: false
+
+                },
+                {
+                    name:'裤子',
+                    price:12,
+                    isRed: false
+
+                },
+                {
+                    name:'鞋',
+                    price:33,
+                    isRed: false
+
+                },
+                {
+                    name:'电脑',
+                    price:234,
+                    isRed: false
+
+                },
+                {
+                    name:'手机',
+                    price:543,
+                    isRed: false
+
+                }
+            ],
+            total:0,
+            checked:[],
+            price:0,
+            keyword:"",
+            name:""
+        },
+        methods:{
+            select(product){
+                product.isRed = !product.isRed;
+                /*if(product.isRed){
+                    this.total += product.price;
+                }else{
+                    this.total -= product.price;
+
+                }*/
+
+            },
+    sum(){
+        let sum = 0;
+        this.productList.forEach(function (val,idx) {
+            if(val.isRed){
+                sum += val.price;
+            }
+        });
+        return sum;
+    },
+    add(){
+        if(this.name != "" && this.price != ""){
+            this.productList.push({
+                name:this.name,
+                price:this.price,
+                isRed:false
+            });
+            this.name = "";
+            this.price = "";
+        }
+
+    },
+    search(){
+        let arr = this.productList.filter((val,key)=>{
+            if(val.name.includes(this.keyword)){
+                return val;
+        }
+        });
+        this.productList = arr;
+    },
+    del(index){
+        this.productList.splice(index,1);
+    },
+    delAll(){
+        console.log(this.checked);
+        let arr = this.productList.filter((val,idx)=>{
+                    if(!this.checked.includes(idx)){
+            return val;
+        }
+
+                });
+    this.productList = arr;
+    this.checked = [];
+    }
+        }
+    })
+</script>
+</body>
+</html>
