@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .div1 {
+            width: 400px;
+            height: 400px;
+            background: #ff0000;
+        }
+
+        .div2 {
+            width: 200px;
+            height: 200px;
+            background: #00ff00;
+        }
+        .aa {
+            width: 200px;
+            height: 200px;
+            background: #ff0000;
+        }
+        .bb{
+            background: #00ff00;
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    {{msg}}
+    <div v-if="isLogin">欢迎</div>
+    <div v-else>请登录</div>
+    <div v-if="type=='a'">a</div>
+    <div v-else-if="type=='b'">b</div>
+    <div v-else>c</div>
+    <div v-show="isShow">show</div>
+    <ul>
+        <li v-for="item in arr">
+            {{item}}
+        </li>
+        <li v-for="(school,index) in obj">
+            {{school}}--{{index}}
+        </li>
+        <li v-for="school in list">
+            {{school}}
+        </li>
+        <li v-for="user in users">
+            {{user}}
+        </li>
+
+    </ul>
+    <div v-text="msg1"></div>
+    <div v-text="msg2"></div>
+    <div v-html="msg2"></div>
+
+    <button @click="add(2,$event)">加1</button>
+    <div>{{count}}</div>
+
+    <button v-on="{mousedown:doThis,mouseup:doThat}">btn</button>
+    <div class="div1" @click="clickDiv1">
+        <div class="div2" @click.stop="clickDiv2"></div>
+    </div>
+
+    <form action="">
+        <lable>用户名：<input type="text" v-model="username"/></lable>
+        <div>用户名是：{{username}}</div>
+        性别：
+        <input type="radio" v-model="sex" value="男"/>男
+        <input type="radio" v-model="sex" value="女"/>女
+        <div>性别是：{{sex}}</div>
+        爱好：
+        <input type="checkbox" v-model="hobby" value="篮球"/>篮球
+        <input type="checkbox" v-model="hobby" value="足球"/>足球
+
+        <input type="checkbox" v-model="hobby" value="排球"/>排球
+        <div>爱好是：{{hobby}}</div>
+
+        学校：
+        <select v-model="school">
+            <option value="黑大">黑大</option>
+            <option value="林大">林大</option>
+            <option value="农大">农大</option>
+            <option value="理工">理工</option>
+            <div>学校是：{{school}}</div>
+            说明：
+            <textarea name="" id="" cols="30" rows="10" v-model="description"></textarea>
+            <div>说明是:{{description}}</div>
+
+        </select>
+
+
+    </form>
+
+    <img :src="imgSrc" :alt="imgAlt"/>
+    <div :class="clsName">div1</div>
+    <div :class="{bb:isBb}">div2</div>
+
+    <div :class="{bb:isBb,aa:isAa}">div3</div>
+    <div :style="styleObj">div4</div>
+
+</div>
+<script src="vue.js"></script>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data: {
+            msg: 'Hello world!',
+            isLogin: true,
+            type: 'b',
+            isShow: true,
+            arr: [1, 3, 5, 4, 2],
+            obj: {
+                name: 'zhangsan',
+                age: 18,
+                school: '农大'
+            },
+            list: ['林大', '理工', '农大', '黑大'],
+            users: [
+                {
+                    name: 'lisi',
+                    age: 20,
+                    school: '农大'
+                }, {
+                    name: 'wangwu',
+                    age: 30,
+                    school: '林大'
+                }
+            ],
+            msg1:'Hello world',
+            msg2:'<h1>hhh</h1>',
+            count:0,
+            username:'',
+            sex:'',
+            hobby:[],
+            school:'',
+            description: '',
+            imgSrc:'https://cn.vuejs.org/images/logo.png',
+            imgAlt:'图片加载失败',
+            isBb:true,
+            isAa:true,
+            clsName:'aa',
+            styleObj:{
+                width:'200px',
+                'background-color':'#ccc'
+            }
+
+        },
+        methods:{
+            add(num,e){
+                this.count+=num;
+                console.log(e);
+            },
+            doThis(){
+                console.log('doThis');
+             },
+            doThat(){
+                console.log('doThat');
+            },
+            clickDiv1(){
+                console.log('clickDiv1');
+            },
+            clickDiv2(e){
+                console.log('clickDiv2');
+                e.stopPropagation();
+            }
+        }
+    });
+</script>
+</body>
+</html>

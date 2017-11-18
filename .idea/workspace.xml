@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/弹出层练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/10_foreach.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/11_directive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/12_extend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/13_set.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/14_生命周期.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/15_箭头函数.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/16_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/17_组件1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/18_组件2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/19_组件3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/20_slot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/21_dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/23_绑定.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/5_v-on.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/6_v-model.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/8_其他指令.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/9_todolist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/Dialog.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/练习.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my file.iws" />
@@ -87,29 +108,31 @@
       <file leaf-file-name="4_v-text v-html.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.84375">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="弹出层练习.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="弹出层练习.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/弹出层练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="笔记" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记">
+      <file leaf-file-name="vue.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue/vue.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-              <folding />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509516084587" expanded="true" signature="217349:217358" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,20 +216,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -221,8 +230,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\WebstormProjects\project\vue" />
       <recent name="C:\Users\lenovo\WebstormProjects\project" />
+      <recent name="C:\Users\lenovo\WebstormProjects\project\vue" />
       <recent name="C:\Users\lenovo\WebstormProjects\my file\my file\jquery\得到失去焦点" />
       <recent name="C:\Users\lenovo\WebstormProjects\my file\my file" />
     </key>
@@ -311,7 +320,13 @@
       <option name="project" value="LOCAL" />
       <updated>1510310614066</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="vue的例子练习：弹出层练习">
+      <created>1510387664081</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510387664081</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -325,13 +340,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -364,13 +379,86 @@
     <MESSAGE value="测试git的使用" />
     <MESSAGE value="vue:todolist练习" />
     <MESSAGE value="vue的一些小例子" />
-    <option name="LAST_COMMIT_MESSAGE" value="vue的一些小例子" />
+    <MESSAGE value="vue的例子练习：弹出层练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue的例子练习：弹出层练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/星巴克/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/todolist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/1_helloworld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/2_v-if.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/3_v-for.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/弹出层练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/问题">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jquery/得到失去焦点/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -681,7 +769,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.84375">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
@@ -692,6 +780,16 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509516084587" expanded="true" signature="217349:217358" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
