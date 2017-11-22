@@ -1,29 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/10_foreach.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/11_directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/12_extend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/13_set.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/14_生命周期.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/15_箭头函数.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/16_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/17_组件1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/18_组件2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/19_组件3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/20_slot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/21_dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/23_绑定.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/5_v-on.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/6_v-model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/8_其他指令.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/9_todolist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/Dialog.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/练习.html" />
+    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="css3的有关知识点及例子练习">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/22_computed_watch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/7_v-bind.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/三角形.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/五环.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/八卦.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的立方体.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/照片墙.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/钟表.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my file.iws" />
@@ -44,110 +84,7 @@
     <favorites_list name="my file" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery/得到失去焦点/1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/星巴克/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todolist.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/todolist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_helloworld.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/1_helloworld.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_v-if.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/2_v-if.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3_v-for.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/3_v-for.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4_v-text v-html.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="弹出层练习.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/弹出层练习.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vue.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vue/vue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1509516084587" expanded="true" signature="217349:217358" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="问题" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/问题">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -198,6 +135,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,8 +157,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,7 +263,13 @@
       <option name="project" value="LOCAL" />
       <updated>1510387664081</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vue的小知识点练习">
+      <created>1510967968537</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510967968537</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -340,9 +283,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -380,7 +323,9 @@
     <MESSAGE value="vue:todolist练习" />
     <MESSAGE value="vue的一些小例子" />
     <MESSAGE value="vue的例子练习：弹出层练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="vue的例子练习：弹出层练习" />
+    <MESSAGE value="vue的小知识点练习" />
+    <MESSAGE value="css3的有关知识点及例子练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="css3的有关知识点及例子练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -391,7 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,7 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -407,7 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,7 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -511,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -535,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,15 +614,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/问题">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.11815068">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,22 +656,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/3_v-for.html">
+    <entry file="file://$PROJECT_DIR$/vue/vue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -779,17 +671,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue.js">
+    <entry file="file://$PROJECT_DIR$/vue/4_v-text v-html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.125">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/3_v-for.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1509516084587" expanded="true" signature="217349:217358" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
