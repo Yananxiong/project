@@ -1,69 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="css3的有关知识点及例子练习">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/thumbs/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/img01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/img02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/img/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/22_computed_watch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/7_v-bind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的照片墙/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/三角形.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/五环.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/八卦.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/旋转的立方体.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/照片墙.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css3/钟表.html" />
+    <list default="true" id="831a468f-c148-41f1-b723-90033ef72ca9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/1_BOM.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/2_DOM1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/3_右键菜单.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/回到顶部.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/拖拽.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/拖拽复习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/轮播图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/轮播图复习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/选项卡.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM/选项卡复习.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my file.iws" />
@@ -84,7 +36,18 @@
     <favorites_list name="my file" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="拖拽复习.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DOM/拖拽复习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,8 +98,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -269,7 +232,13 @@
       <option name="project" value="LOCAL" />
       <updated>1510967968537</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="css3的有关知识点及例子练习">
+      <created>1511360471054</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511360471054</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -289,7 +258,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -304,6 +273,26 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -332,13 +321,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/星巴克/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue/todolist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -663,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,6 +666,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/拖拽复习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
